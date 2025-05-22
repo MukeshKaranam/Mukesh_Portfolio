@@ -10,7 +10,7 @@ const About = () => {
       </p>
 
       <a
-        href="/Mukesh_Resume.pdf"
+        href="https://drive.google.com/file/d/1m-zKL2AxCmYq3Bdj_W8m2OKnMxp-nZhZ/view?usp=sharing"
         target="_blank"
         rel="noopener noreferrer"
         className="view-resume-btn"
