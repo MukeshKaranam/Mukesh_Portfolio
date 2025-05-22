@@ -6,7 +6,7 @@ const About = () => {
     <div className="about-section">
       <h2>About Me</h2>
       <p className="bio">
-        Passionate B.Tech undergraduate in Mechanical Engineering from NIT Warangal with a strong foundation in Frontend Development. Skilled in Web Development, Machine Learning, and Data Analysis, with a commitment to continuous learning and a drive to contribute to innovative projects in the tech industry.
+        Recent B.Tech graduate in Mechanical Engineering from NIT Warangal with a strong foundation in Frontend Development. Proficient in Web Development, Machine Learning, and Data Analysis, with a passion for continuous learning and a drive to contribute to impactful and innovative projects in the tech industry.
       </p>
 
       <a
