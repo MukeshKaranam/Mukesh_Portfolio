@@ -15,7 +15,7 @@ const About = () => {
         rel="noopener noreferrer"
         className="view-resume-btn"
       >
-       📄 View Resume
+        View Resume
       </a>
     </div>
   );
